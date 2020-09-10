@@ -10,7 +10,7 @@ What's Covered:
  	- 1 Keypair 
  	- 3 EC2 Instances - 2 Web and 1 DB
  	- 1 Elastic Load Balancer
-  - 1 Auto Scaling Group
+        - 1 Auto Scaling Group
    
  - Ansible Playbook that performs the following: 
     - Dynamically fetches your resources based on the tags you defined in the terraform IaC. 

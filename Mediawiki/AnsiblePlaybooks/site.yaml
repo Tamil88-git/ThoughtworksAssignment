@@ -6,7 +6,7 @@
 
 # Extra Vars passed from command line
   vars_files: 
-    - vault.yml
+    - vault.yaml
 
   roles:
    - { role: mysqldb, tags: ['install_db'] }
